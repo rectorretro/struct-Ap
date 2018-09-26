@@ -1,0 +1,17 @@
+22 Pepsi Pepsico lt 3 1 23 
+55 Lechera Nestle ml 500 0 25 
+999 Coquits La#Coste¤a 20 g 4 2 
+999 Coquits La#Coste¤a 20 g 4 2 
+666 Jamon FUD 250 g 1 25 
+111 Leche Alpura 1 lt 5 17 
+999 Coquits La#Coste¤a 20 g 4 2 
+666 Jamon FUD 250 g 1 25 
+777 Maseca GRUMA 1 kg 5 12 
+558 Jabom P&G g 500 5 15 
+558 Jabom P&G g 500 5 15 
+22 Pepsi Pepsico lt 3 1 23 
+55 Lechera Nestle ml 500 0 25 
+666 Jamon FUD 250 g 1 25 
+558 Jabom P&G g 500 5 15 
+55 Lechera Nestle ml 500 0 25 
+333 Fabuloso P&G 1 lt 5 19 
